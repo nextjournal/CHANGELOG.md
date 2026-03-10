@@ -23,8 +23,7 @@ Diese extrahierten Informationen sollen später den **Load Builder** deutlich ef
 
 #### 1. Extrahierte / erkannte Werte (Read-only-Ansicht)
 
-![Erkannte Liefermodalitäten – Zusammengefasste Ansicht](images/Screenshot 2026-03-10 at 13.11.59.png) 
-<!-- Alternativ: ./screenshots/2026-03-10_erkannt-liefermodalitaeten.png -->
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - Anlieferzeiten: Mo–Do 08:00–17:00; Fr 08:00–15:00; Sa 08:00–11:00
 - Nachtanlieferung: Keine
